@@ -1,6 +1,5 @@
 package com.xw;
 
-public class Man {
+public class Animal {
     private String name;
-    private int age;
 }
